@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E4C0-4AB0
+
+ Directory of C:\Users\SS241\Downloads\MyProjects
+
+13-11-2024  13:34    <DIR>          .
+13-11-2024  12:59    <DIR>          ..
+13-11-2024  13:02               396 index.html
+13-11-2024  13:01               348 test1.txt
+13-11-2024  13:25               443 test3.txt
+13-11-2024  13:34                 0 test4.txt
+               4 File(s)          1,187 bytes
+               2 Dir(s)  435,257,167,872 bytes free
